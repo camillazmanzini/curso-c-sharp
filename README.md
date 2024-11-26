@@ -1,1 +1,1 @@
-# Curso C# - Cod3r
+# Repositório desenvolvido durante um curso de reforço em C#
