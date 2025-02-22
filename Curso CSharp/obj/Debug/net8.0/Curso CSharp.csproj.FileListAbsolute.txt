@@ -1,0 +1,14 @@
+C:\Users\Manza\Documents\Repositórios\Curso CSharp\bin\Debug\net8.0\Curso CSharp.exe
+C:\Users\Manza\Documents\Repositórios\Curso CSharp\bin\Debug\net8.0\Curso CSharp.deps.json
+C:\Users\Manza\Documents\Repositórios\Curso CSharp\bin\Debug\net8.0\Curso CSharp.runtimeconfig.json
+C:\Users\Manza\Documents\Repositórios\Curso CSharp\bin\Debug\net8.0\Curso CSharp.dll
+C:\Users\Manza\Documents\Repositórios\Curso CSharp\bin\Debug\net8.0\Curso CSharp.pdb
+C:\Users\Manza\Documents\Repositórios\Curso CSharp\obj\Debug\net8.0\Curso CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manza\Documents\Repositórios\Curso CSharp\obj\Debug\net8.0\Curso CSharp.AssemblyInfoInputs.cache
+C:\Users\Manza\Documents\Repositórios\Curso CSharp\obj\Debug\net8.0\Curso CSharp.AssemblyInfo.cs
+C:\Users\Manza\Documents\Repositórios\Curso CSharp\obj\Debug\net8.0\Curso CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Manza\Documents\Repositórios\Curso CSharp\obj\Debug\net8.0\Curso CSharp.dll
+C:\Users\Manza\Documents\Repositórios\Curso CSharp\obj\Debug\net8.0\refint\Curso CSharp.dll
+C:\Users\Manza\Documents\Repositórios\Curso CSharp\obj\Debug\net8.0\Curso CSharp.pdb
+C:\Users\Manza\Documents\Repositórios\Curso CSharp\obj\Debug\net8.0\Curso CSharp.genruntimeconfig.cache
+C:\Users\Manza\Documents\Repositórios\Curso CSharp\obj\Debug\net8.0\ref\Curso CSharp.dll
